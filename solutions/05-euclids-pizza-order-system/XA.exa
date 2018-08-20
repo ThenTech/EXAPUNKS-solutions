@@ -1,0 +1,4 @@
+GRAB 300
+@REP 5
+COPY F M
+@END
